@@ -7,17 +7,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3FB0132C-32C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{334752BC-5958-4402-B78A-BAD5DB126F00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVN.DesignPatterns.Behavioral.Tests", "test\MVN.DesignPatterns.Behavioral.Tests\MVN.DesignPatterns.Behavioral.Tests.csproj", "{6F8A3AAB-6E72-4F6D-AA0F-2A74E152AE93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVN.DesignPatterns.Behavioral.Tests", "test\MVN.DesignPatterns.Behavioral.Tests\MVN.DesignPatterns.Behavioral.Tests.csproj", "{6F8A3AAB-6E72-4F6D-AA0F-2A74E152AE93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVN.DesignPatterns.Creational.Tests", "test\MVN.DesignPatterns.Creational.Tests\MVN.DesignPatterns.Creational.Tests.csproj", "{7C85939E-1F74-4783-A504-021609F6D9EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVN.DesignPatterns.Creational.Tests", "test\MVN.DesignPatterns.Creational.Tests\MVN.DesignPatterns.Creational.Tests.csproj", "{7C85939E-1F74-4783-A504-021609F6D9EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVN.DesignPatterns.Structural.Tests", "test\MVN.DesignPatterns.Structural.Tests\MVN.DesignPatterns.Structural.Tests.csproj", "{FA979C9B-AA7C-411A-AA2F-BD3FD1FBB04E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVN.DesignPatterns.Structural.Tests", "test\MVN.DesignPatterns.Structural.Tests\MVN.DesignPatterns.Structural.Tests.csproj", "{FA979C9B-AA7C-411A-AA2F-BD3FD1FBB04E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVN.DesignPatterns.Creational", "src\MVN.DesignPatterns.Creational\MVN.DesignPatterns.Creational.csproj", "{9D3BBF9D-921A-4ABC-977F-AF6C7B57F322}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVN.DesignPatterns.Creational", "src\MVN.DesignPatterns.Creational\MVN.DesignPatterns.Creational.csproj", "{9D3BBF9D-921A-4ABC-977F-AF6C7B57F322}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVN.DesignPatterns.Structural", "src\MVN.DesignPatterns.Structural\MVN.DesignPatterns.Structural.csproj", "{B39CB633-698E-42B7-A136-BF259D6A5943}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVN.DesignPatterns.Structural", "src\MVN.DesignPatterns.Structural\MVN.DesignPatterns.Structural.csproj", "{B39CB633-698E-42B7-A136-BF259D6A5943}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVN.DesignPatterns.Behavioral", "src\MVN.DesignPatterns.Behavioral\MVN.DesignPatterns.Behavioral.csproj", "{E501C9F0-0CE4-4833-A616-DCC137B70FBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVN.DesignPatterns.Behavioral", "src\MVN.DesignPatterns.Behavioral\MVN.DesignPatterns.Behavioral.csproj", "{E501C9F0-0CE4-4833-A616-DCC137B70FBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
