@@ -1,6 +1,6 @@
 namespace DesignPatternsTest.Behavioral.ChainOfResponsibility
 {
-    public class Test
+    public class ChainOfResponsibilityTest
     {
         
     }

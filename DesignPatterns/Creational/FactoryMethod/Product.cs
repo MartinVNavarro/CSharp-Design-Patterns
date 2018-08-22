@@ -1,4 +1,4 @@
-namespace DesignPatterns.Creational.Builder
+namespace DesignPatterns.Creational.FactoryMethod
 {
     public class Product
     {
