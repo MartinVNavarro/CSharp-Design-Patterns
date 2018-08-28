@@ -1,16 +1,16 @@
 namespace DesignPatterns.Behavioral.ChainOfResponsibility
 {
-    public class ConcreteHandler1 : Handler
+    public class ConcreteHandler3 : Handler
     {
         /// <summary>
-        /// Handles a request by adding 2 to it.
+        /// Handles a request by multiplying it by 10.
         /// </summary>
         /// <param name="request">Request integer.</param>
-        /// <returns>Request integer plus 2.</returns>
+        /// <returns>Request integer multiplied by 10.</returns>
         /// <seealso cref="Handler.HandleRequest(int)"/>
         public override int HandleRequest(int request)
         {
-            int result = request + 2;
+            int result = request * 10;
 
             if(Successor != null)
             {
