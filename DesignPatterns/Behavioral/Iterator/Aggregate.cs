@@ -1,7 +1,7 @@
 namespace DesignPatterns.Behavioral.Iterator
 {
-    public class Aggregate
+    public abstract class Aggregate
     {
-        
+        public abstract Iterator CreateIterator();
     }
 }
