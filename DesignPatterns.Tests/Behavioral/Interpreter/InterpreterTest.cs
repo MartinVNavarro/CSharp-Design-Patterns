@@ -27,8 +27,8 @@ namespace DesignPatterns.Tests.Behavioral.Interpreter
         [Test]
         public void InterpretCorrectly()
         {
-            var context2 = new Context("big scary pink");
-            var context1 = new Context("alaskan bull worm");
+            var context1 = new Context("big scary pink");
+            var context2 = new Context("alaskan bull worm");
 
             // "big scary pink" should be true
             Assert.IsTrue(_testExpression.Interpret(context1.Input));
