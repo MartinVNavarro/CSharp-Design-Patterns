@@ -1,7 +1,7 @@
 namespace DesignPatterns.Behavioral.Interpreter
 {
-    public class AbstractExpression
+    public abstract class AbstractExpression
     {
-        
+        public abstract bool Interpret(string str);
     }
 }
