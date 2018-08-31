@@ -1,7 +1,7 @@
-##Interpreter Design Pattern
+##Interpreter Design Pattern##
 The interpreter design pattern is geared towards providing a design for defining rules and parsing expressions. 
 
-##Practical use:
+##Practical use:##
 One of the main uses of this design is to define a grammar for a language.  The heirarchical nature of this design allows for representation of a grammar.
 
 Example:
