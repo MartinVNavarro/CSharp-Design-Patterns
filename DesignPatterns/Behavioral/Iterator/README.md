@@ -1,4 +1,3 @@
-
 ## Iterator Design Pattern ##
 The iterator design pattern allows for iterative access through a data structure without needing direct access to the underlying structure.
 
