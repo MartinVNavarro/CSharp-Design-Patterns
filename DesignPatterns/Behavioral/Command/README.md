@@ -1,7 +1,7 @@
-##Command Design Pattern
+## Command Design Pattern ##
 The command design pattern is designed to encapsulate the functionality of executable commands in an object.
 
-##Practical use:
+## Practical use: ##
 The following can be achieved from this design:
 
 - encapsulation of a request in an object
