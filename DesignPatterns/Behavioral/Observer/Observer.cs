@@ -1,7 +1,7 @@
 namespace DesignPatterns.Behavioral.Observer
 {
-    public class Observer
+    public abstract class Observer
     {
-        
+        public abstract void Update();
     }
 }
