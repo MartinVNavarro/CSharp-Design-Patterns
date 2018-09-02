@@ -1,7 +1,7 @@
 namespace DesignPatterns.Behavioral.Visitor
 {
-    public class Element
+    public abstract class Element
     {
-        
+        public abstract void Accept(Visitor vistor);
     }
 }
