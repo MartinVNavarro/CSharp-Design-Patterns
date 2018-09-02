@@ -1,7 +1,6 @@
 namespace DesignPatterns.Creational.AbstractFactory
 {
-    public class AbstractProduct
+    public class ProductA1 : AbstractProductA
     {
-        
     }
 }
